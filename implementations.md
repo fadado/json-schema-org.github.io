@@ -28,6 +28,7 @@ Validators
 -   [Haskell](#validator-haskell)
 -   [Java](#validator-java)
 -   [JavaScript](#validator-javascript)
+-   [JQ](#validator-jq)
 -   [PHP](#validator-php)
 -   [Perl](#validator-perl)
 -   [Python](#validator-python)
@@ -76,6 +77,8 @@ Validators
     -   <a href="https://github.com/akidee/schema.js" id="link-impl-schema-js">schema.js</a> (MIT)
     -   <a href="https://github.com/oferei/json-gate" id="link-impl-json-gate">json-gate</a> (MIT)
     -   <a href="https://github.com/bugventure/jsen" id="link-impl-jsen">JSEN</a> for Node.js - *supports version 4* (MIT)
+- JQ <a name="validator-jq"></a>
+    -   <a href="https://github.com/fadado/jbol#jval" id="link-impl-jval">jval</a> (MIT)
 - PHP <a id="validator-php"></a>
     -   <a href="https://github.com/geraintluff/jsv4-php" id="link-impl-jsv4-php">jsv4-php</a> - *supports version 4* (Public Domain / MIT)
     -   <a href="https://github.com/hasbridge/php-json-schema" id="link-impl-php-json-schema">php-json-schema</a> (MIT)
